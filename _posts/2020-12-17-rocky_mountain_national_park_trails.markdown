@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Rocky Mountain National Park Trails**"
+title:      "Rocky Mountain National Park Trails"
 date:       2020-12-17 13:45:45 -0500
 permalink:  rocky_mountain_national_park_trails
 ---
