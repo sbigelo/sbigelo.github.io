@@ -23,3 +23,4 @@ The second area I had struggled with was the nested routes. Again, I took it ste
 A third and final thing I learned was about rendering partial's, but with local instance variables. Sometimes its best to not be DRY and render a partial on your view/.erb file. It can get hairy when you need to use a separate instance variable than the one that is in the partial form. The easy solution is to render partial like normal, but then include a ', locals: {object: @review}' at the end of the render partial. This allows the partial form to replace all of the instances of 'object' used in the partial form and replace them with '@review'. This made my life so much easier rather than rendering partial for each one, which would defeat the purpose of DRY. 
 
 Overall, this has been a fun learning experience. It has changed my entire way of thinking about tackling a large project, by just slowing down and taking it piece by piece.
+
