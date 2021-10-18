@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Virtual DOM and Real DOM"
-date:       2021-10-18 22:11:46 +0000
+date:       2021-10-18 18:11:47 -0400
 permalink:  react_virtual_dom_and_real_dom
 ---
 
